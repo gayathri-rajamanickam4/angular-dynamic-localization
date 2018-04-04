@@ -1,0 +1,5 @@
+{
+    "WelcomeMsg": "Welcome to {{value}} project",
+    "SelectLanguage": "Select your preferred language",
+    "BrowserLanguage":"We have auto-detected <b>{{browserLang}}</b> as your language from browser settings."
+}
